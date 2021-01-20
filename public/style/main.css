@@ -10850,6 +10850,10 @@ footer p {
   }
 }
 
+.navbar-store .navbar-brand .logo {
+  height: 51px;
+}
+
 @media (min-width: 992px) {
   .navbar-store .nav-item .nav-link {
     margin-left: 10px;
